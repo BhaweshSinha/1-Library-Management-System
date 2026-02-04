@@ -7,3 +7,18 @@ print('''
       4. Rent the book
       5. Get the details of the book
 ''')
+user = int(input("Choose option number (Press 0 to exit) -> "))
+if user == 0:
+      break
+elif user == 1:
+      pass
+elif user == 2:
+      pass
+elif user == 3:
+      pass
+elif user == 4:
+      pass
+elif user == 5:
+      pass
+else:
+      break
