@@ -14,6 +14,8 @@ def delete_book():
       pass
 def list_book():
       pass
+def rent_book():
+      pass
 if user == 0:
       break
 elif user == 1:
