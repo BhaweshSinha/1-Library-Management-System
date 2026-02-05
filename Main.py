@@ -16,6 +16,8 @@ def list_book():
       pass
 def rent_book():
       pass
+def get_details():
+      pass
 if user == 0:
       break
 elif user == 1:
