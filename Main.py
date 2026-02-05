@@ -8,6 +8,8 @@ print('''
       5. Get the details of the book
 ''')
 user = int(input("Choose option number (Press 0 to exit) -> "))
+def add_book():
+      pass
 if user == 0:
       break
 elif user == 1:
