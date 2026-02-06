@@ -11,7 +11,7 @@ user = int(input("Choose option number (Press 0 to exit) -> "))
 def add_book():
       user = input()
 def delete_book():
-      pass
+      user = input()
 def list_book():
       pass
 def rent_book():
