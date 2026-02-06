@@ -15,7 +15,7 @@ def delete_book():
 def list_book():
       user = input()
 def rent_book():
-      pass
+      user = input()
 def get_details():
       pass
 def exit():
