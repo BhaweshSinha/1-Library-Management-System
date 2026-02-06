@@ -17,7 +17,7 @@ def list_book():
 def rent_book():
       user = input()
 def get_details():
-      pass
+      user = input()
 def exit():
       pass
 if user == 0:
