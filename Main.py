@@ -9,7 +9,7 @@ print('''
 ''')
 user = int(input("Choose option number (Press 0 to exit) -> "))
 def add_book():
-      pass
+      user = input()
 def delete_book():
       pass
 def list_book():
