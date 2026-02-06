@@ -19,7 +19,7 @@ def rent_book():
 def get_details():
       user = input()
 def exit():
-      pass
+      user = input()
 if user == 0:
       break
 elif user == 1:
