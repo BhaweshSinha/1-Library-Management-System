@@ -13,7 +13,7 @@ def add_book():
 def delete_book():
       user = input()
 def list_book():
-      pass
+      user = input()
 def rent_book():
       pass
 def get_details():
