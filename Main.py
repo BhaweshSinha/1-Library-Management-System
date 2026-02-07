@@ -18,7 +18,7 @@ def list_book():
 def rent_book():
       user = input('Enter the book ID')
 def get_details():
-      user = input()
+      user = input('Enter the book ID')
 def exit():
       break
 if user == 0:
