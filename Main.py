@@ -16,7 +16,7 @@ def delete_book():
 def list_book():
       user = input('Enter the book ID')
 def rent_book():
-      user = input()
+      user = input('Enter the book ID')
 def get_details():
       user = input()
 def exit():
