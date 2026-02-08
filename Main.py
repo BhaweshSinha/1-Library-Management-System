@@ -28,7 +28,7 @@ elif user == 1:
 elif user == 2:
       delete_book()
 elif user == 3:
-      pass
+      list_book()
 elif user == 4:
       pass
 elif user == 5:
