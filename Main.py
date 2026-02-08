@@ -20,7 +20,7 @@ def rent_book():
 def get_details():
       user = input('Enter the book ID')
 def exit():
-      add_book()
+      break
 if user == 0:
       break
 elif user == 1:
