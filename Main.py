@@ -26,7 +26,7 @@ if user == 0:
 elif user == 1:
       add_book()
 elif user == 2:
-      pass
+      delete_book()
 elif user == 3:
       pass
 elif user == 4:
