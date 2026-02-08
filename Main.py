@@ -22,9 +22,9 @@ def get_details():
 def exit():
       break
 if user == 0:
-      add_book()
+      break
 elif user == 1:
-      pass
+      add_book()
 elif user == 2:
       pass
 elif user == 3:
