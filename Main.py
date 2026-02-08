@@ -32,6 +32,6 @@ elif user == 3:
 elif user == 4:
       rent_book()
 elif user == 5:
-      pass
+      get_details()
 else:
       break
