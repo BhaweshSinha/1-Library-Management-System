@@ -30,7 +30,7 @@ elif user == 2:
 elif user == 3:
       list_book()
 elif user == 4:
-      pass
+      rent_book()
 elif user == 5:
       pass
 else:
