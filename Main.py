@@ -20,6 +20,9 @@ def delete_book():
       '''
       user = input('Enter the book ID')
 def list_book():
+      '''
+      This is the function for listing all the books in the database.
+      '''
       user = input('Enter the book ID')
 def rent_book():
       user = input('Enter the book ID')
