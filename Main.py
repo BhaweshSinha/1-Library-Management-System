@@ -35,6 +35,9 @@ def get_details():
       '''
       user = input('Enter the book ID')
 def exit():
+      '''
+      This is the funtion for exiting the menu and break the loop.
+      '''
       break
 if user == 0:
       break
