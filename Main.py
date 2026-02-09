@@ -11,6 +11,9 @@ database = None
 user = int(input("Choose option number (Press 0 to exit) -> "))
 def add_book():
       user = input('Enter the book ID')
+      '''
+      This is the function for adding new book to the database.
+      '''
 def delete_book():
       user = input('Enter the book ID')
 def list_book():
