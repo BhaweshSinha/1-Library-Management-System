@@ -15,6 +15,9 @@ def add_book():
       This is the function for adding new book to the database.
       '''
 def delete_book():
+      '''
+      This is the function for deleting the book for the database.
+      '''
       user = input('Enter the book ID')
 def list_book():
       user = input('Enter the book ID')
