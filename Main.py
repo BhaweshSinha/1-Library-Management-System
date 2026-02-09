@@ -25,6 +25,9 @@ def list_book():
       '''
       user = input('Enter the book ID')
 def rent_book():
+      '''
+      This is the function for renting history and entry of the book to the database.
+      '''
       user = input('Enter the book ID')
 def get_details():
       user = input('Enter the book ID')
