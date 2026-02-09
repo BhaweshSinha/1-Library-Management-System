@@ -30,6 +30,9 @@ def rent_book():
       '''
       user = input('Enter the book ID')
 def get_details():
+      '''
+      This is the funtion to get the details of the specific book from the database.
+      '''
       user = input('Enter the book ID')
 def exit():
       break
