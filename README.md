@@ -1,1 +1,1 @@
-High School project, Code will be uploaded shortly!
+This is the advance library management system project.
